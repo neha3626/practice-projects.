@@ -1,7 +1,8 @@
 # DataTrained Practice Projects
 
-This Repository contains project done as part of PG Program in Data Science, Machine Learning & Neural Networks in collaboration with IBM
-#1.Practice Projects Done -
+# This Repository contains project done as part of PG Program in Data Science, Machine Learning & Neural Networks in collaboration with IBM
+
+# 1.Practice Projects Done -
 
 1. World Happiness Report
 2. Mushrooms
